@@ -1,0 +1,81 @@
+body {
+    font-size: 35px;
+    font-family: sans-serif;
+    background-color: rgb(255, 196, 234);
+}
+
+.page-container {
+    margin-top: 75px;
+}
+
+.button-group {
+    padding: 2px;
+    text-align: center;
+}
+
+.button-group button {
+    background-color: darkred;
+    color: white;
+}
+
+#counterText {
+    color: black;
+    font-family: consolas, arial, sans-serif;
+    font-size: 4em;
+    text-align: center;
+    margin: 10px 10px 0px 10px;
+}
+
+.navbar {
+    background-color: darkred;
+}
+
+.navbar a {
+    color: white;
+}
+
+h2 {
+    margin: 100px;
+}
+
+#colorContainer {
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    line-height: 100px;
+    background-color: darkred;
+    text-align: center;
+    
+}
+
+#colorText {
+    color: white;
+}
+
+#blueButton {
+    background-color: blue;
+}
+
+#greenButton {
+    background-color: green;
+}
+
+#redButton {
+    background-color: red;
+}
+
+#purpleButton {
+    background-color: purple;
+}
+
+
+.col {
+    margin: 2px;
+}
+
+
+
+
